@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733254994933",
+    "project_id": "ai6846",
+    "storage_bucket": "ai6846.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733254994933:android:6f26e8719f9822db212ebc",
+        "android_client_info": {
+          "package_name": "com.quicksupport.market.apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWpGMk2V0gN4lglegSdZzAtpgsoOXYdIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
